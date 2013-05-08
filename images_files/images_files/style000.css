@@ -1,0 +1,20 @@
+h1 {
+	font-family:verdana;
+}
+
+ul {
+	background:#333;
+	/*background:#80C31C; /* Cadec green from logo */
+	color:#fff; 
+	/*color:#000000;*/
+	padding:10px 20px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	width:800px;
+}
+
+ul li {
+	list-style:none;
+	font-family:verdana;
+	font-size:56px;
+}
