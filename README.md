@@ -1,4 +1,4 @@
-<h1>Cadec Ticker</h1>
+<h1>Comment Ticker</h1>
 A simple page that displays customer comments. The comments are cycled continuously using a javascript file I found somewhere. I would give credit but I can't remember where I found it.<br />
 There is an admin page for adding and deleting information from the database.<br />
 The Display page grabs the contents of the table and throws them in li tags and the javascript cycles through the quotes.<br /><br />
